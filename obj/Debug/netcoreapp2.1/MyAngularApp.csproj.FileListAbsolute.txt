@@ -1,0 +1,28 @@
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\bin\Debug\netcoreapp2.1\MyAngularApp.deps.json
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\bin\Debug\netcoreapp2.1\MyAngularApp.runtimeconfig.json
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\bin\Debug\netcoreapp2.1\MyAngularApp.runtimeconfig.dev.json
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\bin\Debug\netcoreapp2.1\MyAngularApp.dll
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.csprojAssemblyReference.cache
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.csproj.CoreCompileInputs.cache
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.RazorAssemblyInfo.cache
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.RazorAssemblyInfo.cs
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.AssemblyInfoInputs.cache
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.AssemblyInfo.cs
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.RazorTargetAssemblyInfo.cache
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\bin\Debug\netcoreapp2.1\MyAngularApp.pdb
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.dll
+C:\Users\DeVaF\source\repos\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.pdb
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\bin\Debug\netcoreapp2.1\MyAngularApp.deps.json
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\bin\Debug\netcoreapp2.1\MyAngularApp.runtimeconfig.json
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\bin\Debug\netcoreapp2.1\MyAngularApp.runtimeconfig.dev.json
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\bin\Debug\netcoreapp2.1\MyAngularApp.dll
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\bin\Debug\netcoreapp2.1\MyAngularApp.pdb
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.csprojAssemblyReference.cache
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.csproj.CoreCompileInputs.cache
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.RazorAssemblyInfo.cache
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.RazorAssemblyInfo.cs
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.AssemblyInfoInputs.cache
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.AssemblyInfo.cs
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.RazorTargetAssemblyInfo.cache
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.dll
+D:\ASP .NET Projects\MyAngularApp\MyAngularApp\obj\Debug\netcoreapp2.1\MyAngularApp.pdb

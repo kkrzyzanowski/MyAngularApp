@@ -1,0 +1,15 @@
+.block {
+  margin: 0 auto;
+  background-color: orangered;
+  opacity: 0.2;
+  border-style:ridge;
+  width: 30vw;
+  min-height: 1vh;
+  height: 80vh;
+}
+p
+{
+  padding: 50% 30% 50% 30%;
+  text-align:center;
+  opacity: 1.0;
+}
