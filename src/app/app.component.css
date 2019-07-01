@@ -1,0 +1,21 @@
+/*.name {
+  display: block;
+  width: auto;
+  min-height: 15vh;
+  height: 15vh;
+  overflow:hidden;
+}*/
+
+p {
+  font-family:Impact;
+  font-size:5vh;
+  border-bottom:solid;
+  border-bottom-color:aqua;
+}
+
+app-button-block
+{
+  justify-content:center;
+  align-items:center;
+}
+
